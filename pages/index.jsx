@@ -35,7 +35,7 @@ const Home = () => {
             Our vision is to make crypto trading smarter, easier, and increasing the probability of success for everyone. Whether you're new to trading or you've been at it for years, we want 𝕏CyberAI to be the tool you trust to help you make good trading suggestions and decisions based on AI technology & big data analysis. Our mission is simple: to bring the power of advanced AI trading strategies to your fingertips without needing complex tech skills. 
             <br/>
             <br/>
-            <span className="text-accent">CA: 0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</span>
+            <span className="text-accent">CA: 0x4aAD0FaF07FE53709fe902ABB39757d92d9cD129</span>
           </motion.p>
 
           {/* btn */}
