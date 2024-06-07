@@ -50,7 +50,7 @@ export const socialData = [
   },
   {
     name: "Chart",
-    link: "https://www.dextools.io/app/en/ether/pair-explorer/0x9a19b6b8cf7bdb55d6811d68cdc0c340b0734c31",
+    link: "https://www.dextools.io/app/en/ether/pair-explorer/0xXXXXXXXXXXXXXXX",
     Icon: RiBarChart2Line,
   },
   {
